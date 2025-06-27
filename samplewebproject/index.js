@@ -11,5 +11,4 @@ document.querySelector('form').addEventListener('submit', (event) => {
         // must be invalid
         header.innerHTML = 'Invalid email';
     }
-
 });
