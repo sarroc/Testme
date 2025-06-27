@@ -20,5 +20,8 @@ it('should sum an array', () => {
     });
 
     it('beforeEach is ran each time', () => {
-    assert.strictEqual(numbers.length, 3);
+    assert.strictEqual(numbers.length, 4);
 }); 
+
+hewihaofpefjmewfapmfpaejhrow
+{{{{[[ {]]}}}
